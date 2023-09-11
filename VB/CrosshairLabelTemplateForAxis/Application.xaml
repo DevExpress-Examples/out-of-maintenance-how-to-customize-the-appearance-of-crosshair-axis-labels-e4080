@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="CrosshairLabelTemplateForAxis.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-    <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">67-BD-AD-49-AE-59-68-0C-69-3D-DF-9A-1D-21-82-86-1A-AA-03-C6</my:String>
-  </Application.Resources>
-</Application>
